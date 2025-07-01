@@ -1,0 +1,21 @@
+.par {
+    background-color: red;
+    font-size : 25px; 
+    font-family: DejaVu Sans Mono;
+}
+
+.adj {
+    font-weight : bold;
+    font-size: 30px;
+}
+
+#blue {
+    font-size: 35px;
+    color: blue;
+}
+
+#green {
+    font-size: 29px;
+    background-color: lightgreen;
+    font-weight : bold;
+}
